@@ -105,6 +105,7 @@ h3 {
 
 .jumbotron {
   display: flex;
+  z-index: 100;
   justify-content: center;
   align-items: center;
   background-image: url(https://i2.wp.com/hipertextual.com/wp-content/uploads/2014/03/posters-de-peliculas.jpg?w=1366&ssl=1);
